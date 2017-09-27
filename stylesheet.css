@@ -17,3 +17,7 @@ p{
 body{
 	background-color:#373838;
 }
+/* Start http://www.cursors-4u.com */ 
+body, a:hover {cursor: url(http://cur.cursors-4u.net/others/oth-5/oth480.cur), progress !important;}
+ /* End http://www.cursors-4u.com */
+}
