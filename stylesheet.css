@@ -29,7 +29,12 @@ body, a:hover {cursor: url(http://cur.cursors-4u.net/others/oth-5/oth480.cur), p
 	.whistles{
 		display:block;
 	}
-
+img{
+	content:url(logo.jpg);
+	max-width:200px;
+	overflow:hidden;
+	}
+	
 
 
 
