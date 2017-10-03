@@ -28,10 +28,10 @@ body{
 	color:#B6B6B6;
 }
 .info{
-	font-family: lobster;
-	src: url(Lobster_1.3.otf);
 	display:flex;
 	justify-content:center;
+	font-family: lobster;
+	src: url(Lobster_1.3.otf);
 	color:#B6B6B6;
 }
 /* Start http://www.cursors-4u.com */ 
