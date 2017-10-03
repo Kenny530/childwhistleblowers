@@ -30,9 +30,8 @@ body{
 .info{
 	font-family: lobster;
 	src: url(Lobster_1.3.otf);
-	display:inline-block;
-	margin-left:auto;
-	margin-right:auto;
+	display:flex;
+	justify-content:center;
 	color:#B6B6B6;
 }
 /* Start http://www.cursors-4u.com */ 
