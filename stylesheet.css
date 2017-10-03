@@ -19,7 +19,7 @@ p{
 body{
 	background-color:#373838;
 }
-facts{
+.facts{
 	display:inline-block;
 	margin-left:auto;
 	margin-right:auto;
