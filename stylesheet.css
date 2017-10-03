@@ -24,6 +24,16 @@ body{
 	margin-left:auto;
 	margin-right:auto;
 	color:#B6B6B6;
+	font-family: lobster;
+	src: url(Lobster_1.3.otf);
+}
+.info{
+	display:inline-block;
+	margin-left:auto;
+	margin-right:auto;
+	color:#B6B6B6;
+	font-family: lobster;
+	src: url(Lobster_1.3.otf);
 }
 /* Start http://www.cursors-4u.com */ 
 body, a:hover {cursor: url(http://cur.cursors-4u.net/others/oth-5/oth480.cur), progress !important;}
