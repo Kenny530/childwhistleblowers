@@ -28,8 +28,6 @@ body{
 	color:#B6B6B6;
 }
 .info{
-	display:flex;
-	justify-content:center;
 	font-family: lobster;
 	src: url(Lobster_1.3.otf);
 	color:#B6B6B6;
