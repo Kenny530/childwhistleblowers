@@ -8,11 +8,11 @@
 	text-align:center;
 	color:white;
 	padding: 40px;
-	font-size: 20px;
+	font-size: 40px;
 	font-family: lobster;
 	src: url(Lobster_1.3.otf);
 	border: radius;
-	margin-left:20.5%;
+	margin-left:18.5%;
 }	
 .nav a:hover{
 		background-color:#F6ECFF;
