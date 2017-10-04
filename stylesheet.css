@@ -41,7 +41,7 @@ p{
 }
 body{
 	background-color:#373838;
-	border: solid;
+	border: solid, 15px;
 	border-color:#cc9900;
 }
 .facts{
