@@ -30,6 +30,7 @@ header{
 	src: url(Lobster_1.3.otf);
 	background-image: url(whistle.jpg);
 	font-size:30px;
+	color: #cc9900;
 }
 p{
 	font-family: lobster;
