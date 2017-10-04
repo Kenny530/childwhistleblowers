@@ -41,6 +41,8 @@ p{
 }
 body{
 	background-color:#373838;
+	border: solid;
+	border-color:#cc9900;
 }
 .facts{
 	font-family: lobster;
