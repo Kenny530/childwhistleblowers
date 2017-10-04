@@ -4,6 +4,7 @@
 }
 .nav a {
 	margin:0, auto;
+	display:block;
 	text-align:center;
 	color:black;
 	padding: 20px 18px;
