@@ -53,6 +53,7 @@ body{
 	src: url(Lobster_1.3.otf);
 	display:inline-block;
 	color:#B6B6B6;
+	font-size:20px;
 }
 .info{
 	font-family: lobster;
