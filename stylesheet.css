@@ -1,11 +1,11 @@
 /* Leave Alone */
 .nav{
 	overflow: hidden;	
-}
-.nav a {
 	display: flex;
     	justify-content: center;
     	flex-wrap: wrap;
+}
+.nav a {
 	text-align:center;
 	color:black;
 	padding: 20px 18px;
