@@ -3,9 +3,7 @@
 	overflow: hidden;	
 }
 .nav a {
-	display: inline-block;
-  	float: none;
- 	vertical-align: top;
+	margin-left:auto;
 	text-align:center;
 	color:black;
 	padding: 20px 18px;
