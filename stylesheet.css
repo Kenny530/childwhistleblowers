@@ -67,7 +67,7 @@ body, a:hover {cursor: url(http://cur.cursors-4u.net/others/oth-5/oth480.cur), p
 /* Mobile Layout */
 
 @media screen and (max-width:500px){
-	.whistles{
+	.facts{
 		display:block;
 	}
 img{
