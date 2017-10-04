@@ -11,7 +11,7 @@
 	font-size: 20px;
 	font-family: lobster;
 	src: url(Lobster_1.3.otf);
-	border-radius:60px;
+	border-radius:80px;
 	margin-left:18.5%;
 }	
 .nav a:hover{
@@ -20,7 +20,7 @@
 	}
 .nav a.active {
 		
-		color:red;
+		color:black;
 }
 header{
 	font-family: lobster;
