@@ -3,8 +3,8 @@
 	overflow: hidden;	
 }
 .nav a {
-	display:flex;
-	justify-content:center;
+	display: inline-block;
+    	list-style-type: none;
 	text-align:center;
 	color:black;
 	padding: 20px 18px;
