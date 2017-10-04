@@ -3,7 +3,9 @@
 	overflow: hidden;	
 }
 .nav a {
-	margin-left:auto;
+	display: flex;
+    	justify-content: center;
+    	flex-wrap: wrap;
 	text-align:center;
 	color:black;
 	padding: 20px 18px;
@@ -12,6 +14,7 @@
 	src: url(Lobster_1.3.otf);
 	border-radius:80px;
 	border: solid;
+	
 	
 }	
 .nav a:hover{
