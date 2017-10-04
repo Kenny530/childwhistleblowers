@@ -16,11 +16,11 @@
 }	
 .nav a:hover{
 		background-color:#F6ECFF;
-		color:black;
+		color:red;
 	}
 .nav a.active {
 		
-		color:black;
+		color:red;
 }
 header{
 	font-family: lobster;
