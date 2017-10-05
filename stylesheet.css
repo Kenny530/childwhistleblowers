@@ -64,9 +64,8 @@ body{
 	font-family: lobster;
 	src: url(Lobster_1.3.otf);
 	color:#B6B6B6;
-	border: solid;
-	border-color:#cc9900;
-	border-width:15px;
+	display:inline-block;
+	font-size:20px;
 }
 /* Start http://www.cursors-4u.com */ 
 body, a:hover {cursor: url(http://cur.cursors-4u.net/others/oth-5/oth480.cur), progress !important;}
