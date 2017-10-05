@@ -75,14 +75,17 @@ body, a:hover {cursor: url(http://cur.cursors-4u.net/others/oth-5/oth480.cur), p
 @media screen and (max-width:500px){
 	.cause{
 		display:flex;
+		justify-content:center;
 	}
 @media screen and (max-width:1000px){
 	.cause{
 		display:flex;
+		justify-content:center;
 	}
 @media screen and (max-width:1500px){
 	.cause{
 		display:flex;
+		justify-content:center;
 	}	
 
 
