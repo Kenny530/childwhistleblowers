@@ -76,13 +76,9 @@ body, a:hover {cursor: url(http://cur.cursors-4u.net/others/oth-5/oth480.cur), p
 
 @media screen and (max-width:500px){
 	.cause{
-		display:block;
+		display:flex;
 	}
-img{
-	content:url(cause.jpg);
-	max-width:200px;
-	overflow:hidden;
-	}
+
 	
 
 
